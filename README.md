@@ -4,7 +4,7 @@ A Matrix-themed falling text effect created using HTML5 Canvas and JavaScript, i
 
 ## Demo
 
-![Matrix Effect Demo](path-to-your-gif-file.gif)
+![Matrix Effect Demo](matrix_demo.gif)
 
 ## Features
 
@@ -61,3 +61,7 @@ Feel free to fork this project, improve it, and create pull requests. All contri
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+Now the GIF demo is correctly linked in your README. Let me know if you need any further tweaks!
