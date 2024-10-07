@@ -1,6 +1,6 @@
 # 🖥️ Matrix Effect: Code Rain Edition 🌧️
 
-Welcome to the **Matrix Effect** — the most legendary digital rain simulation you've ever seen. The green text from "The Matrix" is no longer confined to the movies. Now, you can experience it live in your browser! Watch the characters fall like they're getting chased by Neo himself.
+Welcome to the **Matrix Effect**. The green text from "The Matrix" is no longer confined to the movies. Now, you can experience it live in your browser! Watch the characters fall like they're getting chased by Neo himself.
 
 You can witness the live project [here](https://rjoshi141.github.io/matrix/). Be prepared for some serious nostalgia, and maybe a few lines of code that make you feel like you’re part of a secret underground hacker group.
 
