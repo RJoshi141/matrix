@@ -6,7 +6,7 @@ You can witness the live project [here](https://rjoshi141.github.io/matrix/). Be
 
 ## 📺 Demo
 
-![Matrix Effect Demo](matrix_demo.gif)
+![Matrix Effect Demo](matrix-demo.gif)
 
 ## 🚀 Features
 
